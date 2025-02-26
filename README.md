@@ -5,6 +5,6 @@
 "pip install PyQt5"
 
 安装完成后，你可以通过以下命令验证 PyQt5 是否安装成功：
-"python -c "import PyQt5""
+"python -c "import PyQt5"
 
 任何问题请与我联系：qianyx20040130@mail.ustc.edu.cn
