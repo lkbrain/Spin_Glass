@@ -9,6 +9,7 @@ import pickle
 
 
 
+
 class GridWidget(QWidget):
     # 定义信号
     data_updated = pyqtSignal(int, float, float, float, float, float, float)
